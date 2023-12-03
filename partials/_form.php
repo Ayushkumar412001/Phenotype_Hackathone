@@ -1,5 +1,8 @@
 <div id="form-container">
-    <h2>Food and Lifestyle Recommender</h2>
+    <h2>Know your self based on your Parkruthi.</h2>
+    <br>
+    <p>Welcome! You can know your Prakruthi after successful completion of this assessment. All the questions are mandatory. The result is entirely based on your responses, so choose the options carefully. You may find more than one options relevant to you, choose the one which is more relevant to you.</p>
+    <br>
     <form id="recommendation-form">
         <div class="question">
             <label> 1. Memory.</label>
@@ -112,4 +115,7 @@
         <button type="reset" >Reset</button>
     </form>
         
+    <!---------------------------- result ------------------- -->
+    <?php include 'partials/_result.php' ?>
+
 </div>

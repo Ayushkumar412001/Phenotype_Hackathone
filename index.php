@@ -29,10 +29,7 @@
 
     <!---------------------------- form ------------------- -->
     <?php include 'partials/_form.php' ?>
-
-    <!---------------------------- result ------------------- -->
-    <?php include 'partials/_result.php' ?>
-    
+        
     <!---------------------------- contact ------------------- -->
     <?php include 'partials/_contact.php' ?>
     
