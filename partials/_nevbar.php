@@ -6,7 +6,7 @@
         <ul>
             <li><a id="home" href="index.php">Home</a></li>
             <li><a href="#explore">Explore</a></li>
-            <li><a href="#service">Assessment</a></li>
+            <li><a href="#form-container">Assessment</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </div>

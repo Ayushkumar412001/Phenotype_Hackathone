@@ -8,7 +8,7 @@
         <h3> <span>Gateways 2023</span> </h3>
         <h1>-</h1>
         <a href="#explore"><button>EXPLORE</button></a>
-        <a href="https://rzp.io/l/oPJb73G7Fl" target="blank"><button>ASSESSMENT</button></a>
+        <a href="#form-container" target="blank"><button>ASSESSMENT</button></a>
     </div>
 
 </div>
